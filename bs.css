@@ -19,6 +19,7 @@
   	font-weight: bold;
   	transition: transform 4s;
   	margin:auto;
+	flex-wrap:wrap;
  }
 
 .text:hover{ 
