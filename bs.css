@@ -30,12 +30,11 @@ body{
 	cursor: pointer;
 }
 
-.button{
-	display: flex;
-	justify-content: center;
-}
 
 .btn {
+	display:flex;
+	margin:auto;
+	justify-content:center;
 	margin-top: 200px;
 	transition: transform 4s;
 }
